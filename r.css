@@ -1,0 +1,94 @@
+<div class="Shop" style="display: block;">
+        <div class="RedEffect" style="width: 2160px; height: 401px; left: 0px; top: 1139px; position: absolute; background: #FF3500; box-shadow: 1000px 1000px 1000px; filter: blur(1000px)"></div>
+        <div class="SocialMedia" style="left: 1019px; top: 1466px; position: absolute; justify-content: center; align-items: center; gap: 15px; display: inline-flex">
+            <div class="Vector" style="width: 20px; height: 20px; background: white"></div>
+            <div class="Vector" style="width: 10.71px; height: 20px; background: white"></div>
+            <div class="Vector" style="width: 20px; height: 20px; background: white"></div>
+            <div class="Vector" style="width: 26.67px; height: 20px; background: white"></div>
+        </div>
+        <div class="IfYouHaveAnyProblemFeelFreeToContactUsBy" style="width: 580px; height: 72px; left: 790px; top: 1384px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 500; text-transform: capitalize; line-height: 72px; word-wrap: break-word">if you have any problem feel free to contact us by</div>
+        <div class="OurServices" style="left: 67px; top: 976px; position: absolute; justify-content: center; align-items: center; gap: 80px; display: inline-flex">
+            <div class="HardwareCategory" style="width: 520px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+                <div class="ChoseTheCategoryOfYourHardware" style="width: 686px; height: 36px; color: white; font-size: 24px; font-family: Montserrat; font-weight: 700; text-transform: capitalize; line-height: 36px; word-wrap: break-word">chose the category of your hardware</div>
+                <div class="OurWebSiteGivesYouSuggestionOfIdeasAccordingToTheCategoryOfTheHardwareYouWant" style="width: 556px; height: 91px; color: rgba(255, 255, 255, 0.80); font-size: 18px; font-family: Montserrat; font-weight: 400; line-height: 30px; word-wrap: break-word">our web site gives you suggestion of ideas according to the category of the hardware you want.</div>
+                <div class="Button" style="width: 130px; height: 40px; position: relative">
+                    <div class="Rectangle2" style="width: 130px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 0.50px black solid"></div>
+                    <div class="LearnMore" style="left: 25px; top: 11px; position: absolute; text-align: center; color: black; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Learn more</div>
+                </div>
+            </div>
+            <div class="Payement" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+                <div class="PaymentAndDilevery" style="width: 686px; height: 36px; color: white; font-size: 24px; font-family: Montserrat; font-weight: 700; text-transform: capitalize; line-height: 36px; word-wrap: break-word">payment and dilevery</div>
+                <div class="OurApplicationGivesYouThePossibilityToChooseBetweenManyWaysOfPaymentAndAlsoToChooseTheTimeAndTheAdressThatYouWantTheGiftWillBeReseaved" style="width: 724px; height: 90px; color: rgba(255, 255, 255, 0.80); font-size: 18px; font-family: Montserrat; font-weight: 400; line-height: 30px; word-wrap: break-word">our application gives you the possibility to choose between many ways of payment and also to choose the time and the adress that you want the gift will be reseaved.</div>
+                <div class="Button" style="width: 130px; height: 40px; position: relative">
+                    <div class="Rectangle2" style="width: 130px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 0.50px black solid"></div>
+                    <div class="LearnMore" style="left: 25px; top: 11px; position: absolute; text-align: center; color: black; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Learn more</div>
+                </div>
+            </div>
+            <div class="Feedback" style="width: 504px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+                <div class="YourFeedbacks" style="width: 686px; height: 36px; color: white; font-size: 24px; font-family: Montserrat; font-weight: 700; text-transform: capitalize; line-height: 36px; word-wrap: break-word">Your feedbacks</div>
+                <div class="IfYouHaveAnyFeedBacksFeelFreeToSentItToUsUsingThisBottonOrSendingItViaEmail" style="width: 520px; height: 90px; color: rgba(255, 255, 255, 0.80); font-size: 18px; font-family: Inter; font-weight: 400; line-height: 30px; word-wrap: break-word">if you have any feed backs feel free to sent it to us using this botton or sending it via email</div>
+                <div class="Button" style="width: 130px; height: 40px; position: relative">
+                    <div class="Rectangle2" style="width: 130px; height: 40px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 6px; border: 0.50px black solid"></div>
+                    <div class="LearnMore" style="left: 25px; top: 11px; position: absolute; text-align: center; color: black; font-size: 15px; font-family: Inter; font-weight: 500; word-wrap: break-word">Learn more</div>
+                </div>
+            </div>
+        </div>
+        <div class="MoreAboutOurServices" style="left: 77px; top: 887px; position: absolute; text-align: center; color: white; font-size: 40px; font-family: Inter; font-weight: 700; text-transform: capitalize; line-height: 36px; word-wrap: break-word">More about our services</div>
+        <img class="Img1" style="width: 1049px; height: 443px; left: 1059px; top: 229px; position: absolute" src="https://via.placeholder.com/1049x443" />
+        <div class="Description" style="left: 67px; top: 268px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 20px; display: inline-flex">
+            <div class="BeReady" style="width: 952px; height: 139px; padding: 10px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div class="YourBestPlaceToEnjoyTheHardwareBeReady" style="width: 942px"><span style="color: white; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">Your Best Place To Enjoy The Hardware.<br/></span><span style="color: #E44217; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">Be Ready</span></div>
+            </div>
+            <div class="Frame25" style="padding: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 40px; display: flex">
+                <div class="UsingMaterielNetYouCanFindTheBestQualityAndPricesOfYourFavoritePcWeDoAndDontThinkAboutTheDelivary" style="width: 922px; height: 76px"><span style="color: white; font-size: 30px; font-family: Inter; font-weight: 700; word-wrap: break-word">Using Materiel.Net</span><span style="color: white; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word"> </span><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word"> </span><span style="color: rgba(255, 255, 255, 0.79); font-size: 30px; font-family: Inter; font-weight: 500; word-wrap: break-word">you can find the best quality and prices of your favorite pc we do and dont think about the delivary </span></div>
+                <div class="Button" style="width: 328px; height: 109px; position: relative">
+                    <div class="Rectangle2" style="width: 328px; height: 109px; left: 0px; top: 0px; position: absolute; background: #EC442A; border-radius: 60px"></div>
+                    <div class="LearnMore" style="left: 41.97px; top: 24.98px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word"> Start Now</div>
+                </div>
+            </div>
+        </div>
+        <div class="Menu" style="width: 50px; height: 36px; left: 2058px; top: 55px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 18px; display: inline-flex">
+            <div class="Line1" style="width: 50.01px; height: 0px; border: 2.50px #EC442A solid"></div>
+            <div class="Line2" style="width: 50.01px; height: 0px; border: 2.50px #EC442A solid"></div>
+            <div class="Line3" style="width: 50.01px; height: 0px; border: 2.50px #EC442A solid"></div>
+        </div>
+        <div class="NavBar" style="width: 425px; left: 1454px; top: 55px; position: absolute; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+            <div class="Home" style="width: 77px; height: 36px; color: white; font-size: 24px; font-family: Inter; font-weight: 700; text-decoration: underline; word-wrap: break-word">Home</div>
+            <div class="About" style="width: 84px; color: white; font-size: 24px; font-family: Inter; font-weight: 700; text-decoration: underline; word-wrap: break-word">About</div>
+            <div class="Category" style="width: 126px; height: 35px; color: white; font-size: 24px; font-family: Inter; font-weight: 700; text-decoration: underline; word-wrap: break-word">Category</div>
+            <div class="Support" style="width: 131px; height: 36px; color: white; font-size: 24px; font-family: Inter; font-weight: 700; text-decoration: underline; word-wrap: break-word">Support</div>
+        </div>
+        <div class="WebName" style="width: 323px; left: 50px; top: 50px; position: absolute; justify-content: center; align-items: center; gap: 15px; display: inline-flex">
+            <img class="ClipPathGroup1" style="width: 74px; height: 75px" src="https://via.placeholder.com/74x75" />
+            <div class="Frame2" style="width: 236px; height: 74px; flex-direction: column; justify-content: flex-end; align-items: center; gap: 10px; display: inline-flex">
+                <img class="Materiel" style="width: 236px; height: 36px" src="https://via.placeholder.com/236x36" />
+                <img class="Vector" style="width: 236px; height: 18px" src="https://via.placeholder.com/236x18" />
+            </div>
+        </div>
+    </div>
+
+
+
+    <nav id="navigation"> 
+        <ul class="nav-list">
+            <li class="nav-list">
+                <img src="Clip_path_group.png" alt="Logo">
+                <img src="MATERIEL.png" alt="Materiel">
+                <img src="VECTOR.png" alt="VECTOR">
+            </li>
+        </ul>
+        <ul class="nav-list">
+            <li class="list-items"><a href="#">home</a></li>
+            <li class="list-items"><a href="#">categories</a></li>
+            <li class="list-items"><a href="#">about us</a></li>
+            <li class="list-items"><a href="#">support</a></li>
+        </ul>
+
+        <ul class="">
+            <li class="list-items"><a href="#">home</a></li>
+            <li class="list-items"><a href="#">categories</a></li>
+            <li class="list-items"><a href="#">about us</a></li>
+            <li class="list-items"><a href="#">support</a></li>
+        </ul>
+    </nav>
+    
