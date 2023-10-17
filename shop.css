@@ -372,8 +372,8 @@ section .card .image img {
 .card .content .img img {
     height: 100%;
     width: 100%;
-
     object-fit: cover;
+    filter: drop-shadow(2px 4px 6px black);
 }
 
 .card .content .name {
