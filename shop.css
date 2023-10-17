@@ -26,7 +26,6 @@ header .logo {
 }
 
 #logo {
-    width: 100%;
     height: 100%;
 }
 
@@ -48,7 +47,7 @@ section header ul li a {
 }
 
 section header ul li a:hover {
-    color: red;
+    color: #c40000;
 }
 
 /* burger stuff and animation*/
@@ -125,18 +124,19 @@ section header ul li a:hover {
 
 section .texts h1 {
     color: white;
+    font-size: 30px;
 }
 
 section .texts h1 span {
-    color: red;
+    color: #c40000;
 }
 
 section .text2 p {
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 30px;
     color: white;
-    max-width: 500PX;
-    min-width:200px;
+    /* max-width: 500PX;
+    min-width:200px; */
 }
 
 section .texts .start p a {
@@ -146,10 +146,10 @@ section .texts .start p a {
 
 section .texts .start {
     font-weight: bold;
-    background-color: red;
+    background-color: #c40000;
     cursor: pointer;
     padding: 10px 33px;
-    border: 1px solid red;
+    border: 1px solid #c40000;
     border-radius: 30px;
     transition: 0.3s;
     width: fit-content;
@@ -165,13 +165,16 @@ section .background_img{
 }
 
 section .background_img img {
-    width: 100%;
+    width: 80%;
+    margin-left: 90px;
 }
 
 .hero{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
 }
 
 
@@ -184,8 +187,9 @@ section .background_img img {
 
 .about hr {
     height: 5px;
-    background-color: red;
+    background-color: #c40000;
     margin: 50px 110px;
+    border: none;
 }
 
 .about .Laptops h1 {
@@ -212,7 +216,7 @@ section .background_img img {
 /*footer*/
 
 .footer {
-    background-color: red;
+    background-color: #c40000;
     padding: 30px;
 }
 
@@ -289,11 +293,11 @@ section .card .image img {
 /* BUTTON SIGN UP */
 #signup {
     font-weight: bold;
-    background-color: red;
+    background-color: #c40000;
     margin: 10px 20px;
     cursor: pointer;
     padding: 10px 30px;
-    border: 1px solid red;
+    border: 1px solid #c40000;
     border-radius: 30px;
     transition: 0.3s;
     text-decoration: none;
@@ -310,7 +314,7 @@ section .card .image img {
     max-width: 950px;
     width: 100%;
     overflow: hidden;
-    padding: 10px 0;
+    padding: 25px 0;
 }
 
 .container1 .main-card {
@@ -338,7 +342,7 @@ section .card .image img {
 
 .main-card .cards .card {
     width: calc(100% / 3 - 10px);
-    background: red;
+    background: linear-gradient(to bottom , #d10000, #4d0000);
     border-radius: 12px;
     padding: 30px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
@@ -361,9 +365,7 @@ section .card .image img {
 .cards .card .content .img {
     height: 130px;
     width: 130px;
-
     padding: 3px;
-    background: red;
     margin-bottom: 14px;
 }
 
@@ -375,10 +377,11 @@ section .card .image img {
 }
 
 .card .content .name {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     color: white;
-    margin: 10PX;
+    margin-top: 10PX;
+    margin-bottom: 10px;
 }
 
 .card .content .desc {
@@ -498,7 +501,7 @@ input[type="radio"] {
     padding: 8PX 16PX;
     background-color: black;
     border-radius: 12PX;
-    margin: 2PX;
+    margin-top: 10PX;
     cursor: pointer;
     transition: all 0.3s ease;
     text-decoration: none;
@@ -580,7 +583,7 @@ input[type="radio"] {
     
         .main-card-mobile .cards .card {
             width: calc(100% / 2 - 10px);
-            background: red;
+            background:linear-gradient(to bottom right, #d10000, #4d0000);
             border-radius: 12px;
             padding: 30px;
             box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
@@ -603,16 +606,14 @@ input[type="radio"] {
         .cards .card .content .img {
             height: 130px;
             width: 130px;
-    
             padding: 3px;
-            background: red;
             margin-bottom: 14px;
         }
     
         .card .content .img img {
             height: 100%;
             width: 100%;
-    
+
             object-fit: cover;
         }
     
